@@ -12,7 +12,7 @@ from urllib.request import urlopen
 # ==============================================================================
 # Change this to your actual ThingSpeak Write API Key once your dashboard is set up.
 # If left as default, the script will smoothly run in offline/local simulation mode.
-THINGSPEAK_API_KEY = "YOUR_THINGSPEAK_WRITE_KEY" 
+THINGSPEAK_API_KEY = "UKZDPER8Z42PY2MI" 
 THINGSPEAK_URL = "https://thingspeak.com"
 CSV_FILE_PATH = "data/sensor_logs.csv"
 
